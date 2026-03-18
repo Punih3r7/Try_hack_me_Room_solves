@@ -107,25 +107,6 @@ If it finds:
 It redirects the request to that IP.
 
 ---
-
-# ⚠️ Important Notes
-
-* You need **sudo/root privileges** to edit `/etc/hosts`.
-* This change only affects **your local machine**.
-* It does **not change the actual DNS server**.
-
----
-
-# 🧠 Useful for
-
-* TryHackMe rooms
-* HackTheBox machines
-* Bug bounty testing
-* Local penetration testing
-* Virtual host enumeration
-
----
-
 # 💡 Quick Example
 
 ```
@@ -145,6 +126,4 @@ http://fake_bank
 ```
 
 ---
-
-🚀 This technique is commonly used in **web penetration testing when dealing with virtual hosts**.
 
