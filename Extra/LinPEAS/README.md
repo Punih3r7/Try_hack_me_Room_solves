@@ -72,7 +72,7 @@ chmod +x linpeas.sh
 
 ---
 
-## 🔎 What We Look For
+## 🔎 What We Looking For
 
 ```bash
 - SUID binaries
@@ -104,9 +104,7 @@ From here:
 
 * Search exploit for the CVE
 * Compile and run
-* Get root access 😈
+* Get root access 😈 if CVE Found
 
 ---
-
-DONE ✅
 
