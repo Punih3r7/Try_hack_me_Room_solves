@@ -32,7 +32,7 @@ Now the file is accessible at:
 ```bash
 http://ATTACKER_IP:8000
 ```
-
+here the attacker ip means our machines ip
 ---
 
 ## Step 3: Transfer to Target (Reverse Shell)
@@ -67,9 +67,8 @@ chmod +x linpeas.sh
 
 ---
 
-## 📸 Screenshot Placeholder
 
-*(Insert LinPEAS output here)*
+![alt text](image.png)
 
 ---
 
