@@ -14,11 +14,11 @@ Example:
 
 Instead of visiting:
 
-http://10.10.10.10
+`http://10.10.10.10`
 
 We may need to visit:
 
-http://fakebank
+> http://fakebank
 
 To make this work, we map the IP to the hostname.
 
